@@ -146,4 +146,4 @@ source sql_scripts/hr_cleaning_transformations.sql;
 
 **Paul Egeonu**  
 _Data Analyst & Data Scientist_  
-[LinkedIn](https://www.linkedin.com/paul_egeonu) | [Portfolio](https://yourportfolio.com) | [GitHub](https://github.com/Paul-Egeonu)
+[LinkedIn](https://www.linkedin.com/in/paul_egeonu) | [Portfolio](https://yourportfolio.com) | [GitHub](https://github.com/Paul-Egeonu)
